@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Zichen's Builder Two Work</title>
+	</head>
+	<body>
+		<h1>Builder Two</h1>
+        <font size="3" color="red">Info101 is an amazing class. I can learn a lot through this class.</font>
+        <font size="2" color="blue">This is my second assignment for this class. It is all about tags</font>
+        <img src="https://sneakernews.com/wp-content/uploads/2018/02/sean-wotherspoon-nike-air-max-971-release-info-5.jpg" style="width:50px;height:50px">
+        <img src="https://ia.media-imdb.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_SY1000_CR0,0,674,1000_AL_.jpg" style="width:50px;height:50px">
+    </body> 
+
+</html>
